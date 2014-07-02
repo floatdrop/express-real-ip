@@ -1,4 +1,4 @@
-# express-request-id [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+# express-real-ip [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 > Get ip address from custom header
 
 ```js
