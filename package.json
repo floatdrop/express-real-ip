@@ -1,0 +1,32 @@
+{
+  "name": "express-real-ip",
+  "version": "0.0.0",
+  "description": "Use X-Real-Ip header for req.ip in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floatdrop/express-real-ip"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "request",
+    "ip",
+    "x-real-ip"
+  ],
+  "author": "Vsevolod Strukchinsky <floatdrop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/floatdrop/express-real-ip/issues"
+  },
+  "homepage": "https://github.com/floatdrop/express-real-ip",
+  "devDependencies": {
+    "express": "~4.4.5",
+    "mocha": "~1.20.1",
+    "should": "~4.0.4",
+    "supertest": "~0.13.0"
+  }
+}
